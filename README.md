@@ -9,7 +9,7 @@
 
 - 📫 How to reach me at **tdsserafin@gmail.com anytime!**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/JDR.xHPJz_Serafn_Dericks English Version](https://pdfhost.io/v/JDR.xHPJz_Serafn_Dericks English Version)
+- 📄 Know about my experiences [https://pdfhost.io/v/JDR.xHPJz_Serafn_Dericks English Version][https://pdfhost.io/v/jrJ8jTHr0_Copia_de_Serafn_Dericks Spanish Version]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
