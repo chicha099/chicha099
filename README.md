@@ -9,7 +9,7 @@
 
 - 📫 How to reach me at **tdsserafin@gmail.com anytime!**
 
-- 📄 Know about my experiences at [www.linkedin.com/in/serafin-dericks if not here in my Github]
+- 📄 Know about my experiences at www.linkedin.com/in/serafin-dericks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
