@@ -1,4 +1,15 @@
-- 📄 Know about my experiences at www.linkedin.com/in/serafin-dericks
+<h1 align="center">Hi 👋, I'm Serafin Dericks</h1>
+<h3 align="center">A passionate fullstack developer from Germany currently based in Argentina.</h3>
+
+- 🔭 I’m currently working on **"Code To Help", web application for Non-governmental organizations that need a website.**
+
+- 🌱 I’m currently learning **AWS, GraphQL and looking to learn three.js**
+
+- 👨‍💻 Most of my projects are available at [www.linkedin.com/in/serafin-dericks if not here in my Github](www.linkedin.com/in/serafin-dericks if not here in my Github)
+
+- 📫 How to reach me at **tdsserafin@gmail.com anytime!**
+
+- 📄 Know about my experiences at [www.linkedin.com/in/serafin-dericks if not here in my Github]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
